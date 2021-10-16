@@ -1,8 +1,8 @@
 ### A little project with use of Axios, CoinGecko (https://www.coingecko.com/en) APIs, React and Bootstrap displaying real time crypto coins value and coin search bar.
 
-## All the 'thank you' and special credits go to Fazt Code tutorials - https://www.youtube.com/c/FaztCode/about
+All the 'thank you' and special credits go to Fazt Code tutorials - https://www.youtube.com/c/FaztCode/about
 
-## Test build published here - https://pmcoins.netlify.app/
+### Test build published here - https://pmcoins.netlify.app/
 
 
 
