@@ -13,6 +13,29 @@
   }
 }
 
+.socialContainer {
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  
+  color: white !important;
+  padding-bottom: 10px;
+
+
+}
+.social {
+  margin: 20px 30px;
+  cursor: pointer;
+  transform: scale(1.6);
+  
+}
+
+a {
+  text-decoration: none;
+  color: inherit !important;
+
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
